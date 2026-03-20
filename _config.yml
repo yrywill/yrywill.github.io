@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Rongyi Yu"
-description              : "Personal academic homepage of Rongyi Yu, focusing on data-centric AI, LLM training and alignment, and machine learning systems."
+description              : "Interested in data-centric AI, LLM training and alignment, data attribution, dynamic data selection, and AI infrastructure."
 repository               : "yrywill/yrywill.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,8 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Rongyi Yu"
-  avatar           : "images/profile.png"
-  bio              : "M.S. student-to-be at Peking University. Interested in data-centric AI, LLM training and alignment, data attribution, dynamic data selection, and AI infrastructure."
+  avatar           : "images/fig.jpg"
+  bio              : " Rongyi Yu is a Master student at Peking University. "
   location         : "Beijing, China"
   employer         : "Peking University"
   pubmed           :
