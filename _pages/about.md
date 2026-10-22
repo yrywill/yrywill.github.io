@@ -17,21 +17,23 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am **Rongyi Yu (余荣毅)**, a Master student at **Peking University, Center for Machine Learning Research**. I am currently involved in research and engineering on **large model training and alignment**, with a focus on **data attribution**, **dynamic data selection**, and **training efficiency optimization** for **Pretrain / SFT / RLHF (PPO)** settings.
+I am **Rongyi Yu (余荣毅)**, a Master student at **Peking University, Center for Machine Learning Research**. I am currently involved in research and engineering on **large model training and alignment**, with a focus on **data attribution**, **dynamic data selection**, and **training efficiency optimization** for **Pretrain / SFT** settings.
 
-My recent work centers on **data-centric AI** and **AI infrastructure**, aiming to improve the **alignment quality**, **robustness**, and **cost efficiency** of large language models. I am comfortable with the full research pipeline from algorithm design to engineering implementation, including training, evaluation, reproduction, and performance diagnosis.
+My recent work centers on **data-centric AI** and **data infrastructure**, aiming to improve the **data quality**, **diversity**, and **cost efficiency** of large language models. I am comfortable with the full research pipeline from algorithm design to engineering implementation, including data preparation, training, evaluation, and performance diagnosis.
 
 My current and previous research interests include:
 - Data Attribution
 - Data-Centric AI
 - LLM Training and Alignment
 - Dynamic Data Selection
+- large scale data diverisity
 - AI Infrastructure
 - Diffusion Models
 
 # 🔥 News
+- *2026*: &nbsp;📝 Our paper **“DataFlex: A Unified Benchmark and Evaluation Platform for Data-Centric Training of Large Language Models”** is accepted by **NeurIPS 2026**.
 - *2026*: &nbsp;🎉 I will join **Peking University** as a master's student at the **Center for Machine Learning Research**.
-- *2026*: &nbsp;📝 Our paper **“LongVidSearch: An Agentic Multi-hop Search Benchmark for Long Videos”** is under submission to **SIGIR 2026**.
+- *2026*: &nbsp;📝 Our paper **“LongVidSearch: An Agentic Multi-hop Search Benchmark for Long Videos”** is accepted by **Multi-Media 2026**.
 - *2025*: &nbsp;🚀 Participated in research and engineering for **DCAI-DataFlex**, an open-source data-centric toolkit and dynamic training framework for LLMs.
 - *2025*: &nbsp;🏆 Received multiple honors including **National First Prize in the Chinese Mathematics Competition** and **Top 10 Students** at Harbin Institute of Technology.
 
@@ -39,8 +41,10 @@ My current and previous research interests include:
 
 - **Rongyi Yu***, Chenyuan Duan*, et al.  
   **LongVidSearch: An Agentic Multi-hop Search Benchmark for Long Videos**  
-  *SIGIR 2026 Submission*
-
+  *Multi-Media 2026 accepted*
+- Hao Liang*, Zhengyang Zhao*, Mingrui Chen*, Meiyi Qiang*, Lu Ma, **Rongyi Yu（Core Contributor)**, Hengyi Feng, Shixuan Sun, Zimo Meng, Xiaochen Ma, Xuanlin Yang, Qifeng Cai, Ruichuan An, Bohan Zeng, Zhen Hao Wong, Chengyu Shen, Runming He, ZhaoYang Han, Yaowei Zheng et al.
+  **DataFlex: A Unified Benchmark and Evaluation Platform for Data-Centric Training of Large Language Models**
+  *NeurIPS 2026 accepted*
 # 🎖 Honors and Awards
 - *2025* **National First Prize, Chinese Mathematics Competition (Mathematics Category)**  
   Highest-level national honor for mathematics undergraduates.
@@ -58,7 +62,11 @@ My current and previous research interests include:
   CET-4: **585**, CET-6: **571**
 
 # 🔬 Research Experience
-- *2025.09 - 2026.02* **Research Assistant, Peking University, Center for Machine Learning Research**  
+
+- *2026.03 - Now* **Qingyun Research Intern (*青云计划*)**, Tencent Hunyuan, Foundation Model Department 
+  - Focusing on **data attribution**, **data selection** ,and **data diversity** for Pre-Training.
+
+- *2025.09 - Now* **Research Assistant, Peking University, Center for Machine Learning Research**  
   Advisors: **Prof. Wentao Zhang**, **Dr. Hao Liang**
   - Worked on **data-centric LLM training** and **parameter-efficient fine-tuning (PEFT)**.
   - Studied **data quality**, **data selection**, and **training stability** for supervised fine-tuning.
@@ -79,6 +87,6 @@ My current and previous research interests include:
 - **Impact:** The method can be extended to **pretraining**, **reinforcement learning**, and **hard-example mining**, improving alignment quality and system stability.
 
 # 🛠 Skills
-- **Programming & ML:** Python, PyTorch, Transformers, vLLM, DeepSpeed, LLaMA-Factory
+- **Programming & ML:** Python, PyTorch, Transformers, vLLM, DeepSpeed, Megatron, Spark
 - **Mathematics:** Probability and Statistics, Stochastic Processes, Optimization, Numerical Analysis
 - **Tools:** Git, LaTeX, Markdown, Linux
